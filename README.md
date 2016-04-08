@@ -8,6 +8,8 @@ Included is a Python example script for Raspberry Pi that will read from the sen
 Instructions
 ------------
 
+Install the library by cloning it and adding the DistanceSensor directory in the library manager in arduino
+
 Shove the pins for the sensor into 5V, ground, and pin A2 on the arduino.
 
 Connect SCL and SDA between the arduino and the pi. You may need to pull them high.
