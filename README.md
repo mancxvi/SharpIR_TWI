@@ -1,7 +1,7 @@
 Simple Sharp TWI thing
 ======================
 
-Uses [https://github.com/jeroendoggen/Arduino-distance-sensor-library](this Arduino sensor library) and Wire to make a simple i2c slave interface for a Sharp GP2Y0A21YK sensor.
+Uses [this Arduino sensor library](https://github.com/jeroendoggen/Arduino-distance-sensor-library) and Wire to make a simple i2c slave interface for a Sharp GP2Y0A21YK sensor.
 
 Included is a Python example script for Raspberry Pi that will read from the sensor once per second.
 
